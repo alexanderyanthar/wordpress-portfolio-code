@@ -1,0 +1,12 @@
+[submodule "plugins/plugins/skills-section"]
+	path = plugins/plugins/skills-section
+	url = https://github.com/alexanderyanthar/wordpress-skills-section.git
+[submodule "plugins/plugins/hero-section"]
+	path = plugins/plugins/hero-section
+	url = https://github.com/alexanderyanthar/wordpress-hero-section-block.git
+[submodule "plugins/plugins/work-section"]
+	path = plugins/plugins/work-section
+	url = https://github.com/alexanderyanthar/wordpress-work-section-block.git
+[submodule "plugins/plugins/form-section"]
+	path = plugins/plugins/form-section
+	url = https://github.com/alexanderyanthar/wordpress-form-section-block.git
